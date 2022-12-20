@@ -1,0 +1,13 @@
+{
+  "resourceName": "Dileep",
+  "policyUUID": "aef09e19",
+  "bucketName": "amplifyreactgraphqlca1fd98272d84d8aa431868b9ebb",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
